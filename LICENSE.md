@@ -1,4 +1,4 @@
-Soundnode App - Soundcloud for desktop
+Soundnode App - Soundbutt for desktop
 Copyright © 2014  Soundnode App and the contributors (soundnodeapp.com)
  
 If you distribute a copy or make a fork of the project, you have to credit this project as source.
@@ -16,7 +16,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see http://www.gnu.org/licenses/ .
  
-Soundnode App - Soundcloud for desktop
+Soundnode App - Soundbutt for desktop
 Copyright © 2014  Soundnode App and the contributors (soundnodeapp.com)
 Soundnode App is released under the GPL
 
@@ -644,7 +644,7 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
  
-END OF TERMS AND CONDITIONSwo
+END OF TERMS AND CONDITIONS
  
 The source code for any program binaries or compressed scripts that are
 included with Soundnode App can be freely obtained at the following URL:
